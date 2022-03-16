@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/monster/static/css/main.dcaff197.css",
+    "main.js": "/monster/static/js/main.6c1d90e4.js",
+    "static/media/bg.png": "/monster/static/media/bg.a157cc18b6ad0704fc5f.png",
+    "static/media/M1.png": "/monster/static/media/M1.1c32f853f1c089b6df05.png",
+    "static/media/M3.png": "/monster/static/media/M3.1ec79d2132c1e8b874b3.png",
+    "static/media/M2.png": "/monster/static/media/M2.2989a3662a8439dfc470.png",
+    "index.html": "/monster/index.html",
+    "static/media/menu.svg": "/monster/static/media/menu.ad858564fff2c7e13700d2507c428e4b.svg",
+    "main.dcaff197.css.map": "/monster/static/css/main.dcaff197.css.map",
+    "main.6c1d90e4.js.map": "/monster/static/js/main.6c1d90e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcaff197.css",
+    "static/js/main.6c1d90e4.js"
+  ]
+}
